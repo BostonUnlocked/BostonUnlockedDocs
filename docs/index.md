@@ -4,22 +4,16 @@ layout: home
 
 hero:
   name: "Boston Unlocked "
-  text: "A fully community-driven Shadowrun Chronicles Boston Lockdown Server Reimplementation"
-  tagline: My great project tagline
+  text: ""
+  tagline: "A community-driven Shadowrun Chronicles: Boston Lockdown Server Reimplementation"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Quick Start
+      link: /quick-start
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Complete Documentation
+      link: /introduction
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+<!--@include: ./introduction.md -->
