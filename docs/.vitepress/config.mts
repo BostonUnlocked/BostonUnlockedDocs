@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Boston Unlocked ",
   description: "A community-made *Shadowrun Chronicles Boston Lockdown* Server Reimplementation",
+  base: '/BostonUnlockedDocs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
