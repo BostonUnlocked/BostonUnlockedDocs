@@ -1,8 +1,10 @@
-# How to connect to someone else's server
+# Connect to Another Server
 
 ::: danger
 Make sure you trust whom you are connecting to!
 :::
+
+<!--@include: ./includes/supported-game-client.md -->
 
 1. Download the patching program from [the official repository location](https://raw.githubusercontent.com/BostonUnlocked/BostonUnlockedServer/refs/heads/main/clientsetup/patch_embedded_configs.exe)
 
@@ -16,6 +18,8 @@ The `resources.assets` file should be located here:
 
 where `<GameRoot>` refers to where you installed the game
 :::
+
+<!--@include: ./includes/python-patching.md -->
 
 4. After the previous step, in the command line window it will ask for a host, simply enter the IP of the server you want to connect to and press the `ENTER` key.
 5. Once done, simply launch the game normally and enjoy!

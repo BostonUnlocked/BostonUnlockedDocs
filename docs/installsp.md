@@ -8,21 +8,18 @@
     :::
 2. Install [Git](https://git-scm.com/install/windows) and add it to PATH when it asks you to during setup
 3. Install **Shadowrun Chronicles: Boston Lockdown**
-    ::: danger Supported game client version
-    Only the Steam version with client version 23.3.28073.265425 is supported (the last public game client)
-    :::
 
-    ::: danger Path used in commands
-    **Note:** In this guide, the game's installation path is assumed to be `"C:\Program Files (x86)\Steam\steamapps\common\ShadowrunChronicles"`. If you installed the game elsewhere, replace the path in the commands where this path is used with the path of where you installed the game
-    :::
+<!--@include: ./includes/supported-game-client.md -->
 
-    ::: danger Do not install into restricted folders
-    Do NOT install the game in a restricted folder like `"C:\Program Files"` or `"C:\Windows"` or patching will fail. The default Steam installation directory works without issues. If not using a Steam installation, install the game in a normal unprivileged folder such as in your Documents folder.
-    :::
-4. Install **.NET Framework 3.5** (needed for `MSBuild.exe` used by the C# service):
+::: danger Path used in Commands
+**Note:** In this guide, the game's installation path is assumed to be `"C:\Program Files (x86)\Steam\steamapps\common\ShadowrunChronicles"`. If you installed the game elsewhere, replace the path in the commands where this path is used with the path of where you installed the game
+:::
 
-* Overall instructions: <https://learn.microsoft.com/dotnet/framework/install/dotnet-35-windows>
-* For Windows 11 26H1 (build 28000) or later: <https://learn.microsoft.com/en-us/dotnet/framework/install/dotnet-35-windows-11-faq>
+::: danger Do not install into Restricted Folders
+Do NOT install the game in a restricted folder like `"C:\Program Files"` or `"C:\Windows"` otherwise patching will fail. The default Steam installation directory works without issues. If you are not using a Steam installation, install the game in a normal unprivileged folder such as in your Documents folder.
+:::
+
+4. Install [.NET Framework 4.8](<https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48>) (needed for `MSBuild.exe` used by the C# service):
 
 ## 1. Clone the server repository
 
@@ -72,38 +69,7 @@ Run the following command:
 .\clientsetup\patch_embedded_configs.exe --asset "C:\Program Files (x86)\Steam\steamapps\common\ShadowrunChronicles\Shadowrun_Data\resources.assets" patch --host 127.0.0.1
 ```
 
-::: info Linux and Windows 7 patching
-To patch the game on Linux and Windows 7, the underlying python script would need to be used instead of the patch tool executable:
-
-1. Install [Python 3](https://www.python.org/)
-2. Follow [the steps here](https://note.nkmk.me/en/python-pip-install-requirements/#install-packages-with-pip-and-requirementstxt) to install the requirements.txt in the `./tools/` folder
-3. From terminal/CMD, run
-
-```sh
-python.exe ./tools/path_embedded_configs.py --asset "C:\Program Files (x86)\Steam\steamapps\common\ShadowrunChronicles\Shadowrun_Data\resources.assets" patch --host 127.0.0.1
-```
-
-4. Alternatively, if you run
-
-```sh
- python.exe ./tools/path_embedded_configs.py
- ```
-
- It should ask you the path for resources.assets and the IP separately
-:::
-
-::: info
-
-* 127.0.0.1 is the IP for localhost. Use this to play via your local server specifically. If you are connecting to a multiplayer server, this should be the public IP or hostname of the server as mentioned in [Host Multiplayer Online](/installmp) and [Connect to Another Server](/connectmp)
-* The tool creates a backup next to the asset (by default `resources.assets.bak`).
-
-:::
-
-::: warning
-
-* `--asset` is a global flag, so it must come **before** `patch`/`restore`.
-
-:::
+<!--@include: ./includes/python-patching.md -->
 
 ### Restore to connect to the normal/online servers again
 
@@ -113,7 +79,7 @@ If you patched to `127.0.0.1` and want to revert back to the original server URL
 .\clientsetup\patch_embedded_configs.exe --asset "C:\Program Files (x86)\Steam\steamapps\common\ShadowrunChronicles\Shadowrun_Data\resources.assets" restore
 ```
 
-::: danger
+::: warning
 
 * `--asset` is a global flag, so it must come **before** `patch`/`restore`.
 :::

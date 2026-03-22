@@ -1,23 +1,23 @@
-# How to host your own multiplayer server
+# Host Multiplayer Online
 
-::: danger
+::: danger For Advanced Users Only
 Hosting a multiplayer server is best done if you know how to host servers already and how to secure your system and networks
 :::
 
-::: danger
-We do not recommend hosting a multiplayer server from your personal computer (see Note 3 below for why) due to potential security issues
+::: danger Do not host from Personal Computer
+We do not recommend hosting a multiplayer server from your personal computer due to potential security issues  (see Note 3 below for details)
 :::
 
 1. Install the server as described in [Play Single Player Offline](/installsp)
-2. Take the local server you've built/and run with the start local server script, then copy the full folder from:
+2. Take the local server you've built and run with the start local server script, then copy the full folder from:
 
-* \server\src\Shadowrun.LocalService.Host\bin\Release
+`\server\src\Shadowrun.LocalService.Host\bin\Release`
 
 To the machine you want to host it on.
 3. Update these files:
 
-* Release\Resources\config\config.xml
-* Release\Resources\config\LauncherConfig.xml
+`Release\Resources\config\config.xml`
+`Release\Resources\config\LauncherConfig.xml`
 
 Replace all instances of `127.0.0.1` with the reachable public IP/hostname of your server.
 
