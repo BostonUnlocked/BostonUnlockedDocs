@@ -10,6 +10,6 @@ In short, you can run your own server to play the game and optionally set it up 
 
 [Get Started!](/quick-start)
 
-## Community Discord Server Link: <https://discord.gg/cyuPZrC8Wr>
+### Join our [Discord Server](https://discord.gg/cyuPZrC8Wr)!
 
 <!--@include: ./includes/server_is_wip.md -->

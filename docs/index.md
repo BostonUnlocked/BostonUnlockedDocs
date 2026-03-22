@@ -17,3 +17,9 @@ hero:
 ---
 
 <!--@include: ./introduction.md -->
+
+# Announcements
+
+<!--@include: ./posts/2026/2026-03-22.md -->
+
+[>Read Older Announcements](/posts/2026/2026-03-17)

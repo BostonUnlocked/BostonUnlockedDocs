@@ -9,7 +9,7 @@ Make sure you trust whom you are connecting to!
 1. Download the patching program from [the official repository location](https://raw.githubusercontent.com/BostonUnlocked/BostonUnlockedServer/refs/heads/main/clientsetup/patch_embedded_configs.exe)
 
 2. Run it by double-clicking on `patch_embedded_configs.exe`
-3. It will open a file browser asking you to point to the resources.assets file in the installation folder for the game. Select the resources.assets file and click on "Open" to proceeed.
+3. It will open a file browser asking you to point to the resources.assets file in the installation folder for the game. Select the resources.assets file and click on "Open" to proceed.
 
 ::: info
 The `resources.assets` file should be located here:
