@@ -36,6 +36,6 @@ c. 2020-03 - The MADE closes its doors due to the COVID pandemic and shelter in 
 
 **Note:** From this point on, the announcement history section of this website details the rapid progress. Game systems come online rapidly but face issues such as AI behaviour, hub synchronisation and mission progression being difficult to restore without access to the original server code.
 
-2026-07-03 - ZiggyTheHamster joins the BostonUnlocked Discord server and grants the project permission to use the decompiled original server binaries at the MADE. This leads to huge breakthroughs across all game systems. *[Source](https://discord.com/channels/1233507112081166376/1233507349361070151/1479708640184111104)*
+2026-03-07 - ZiggyTheHamster joins the BostonUnlocked Discord server and grants the project permission to use the decompiled original server binaries at the MADE. This leads to huge breakthroughs across all game systems. *[Source](https://discord.com/channels/1233507112081166376/1233507349361070151/1479708640184111104)*
 
 Present - The work continues, see the Announcements section of this website for the latest developments.
