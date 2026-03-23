@@ -3,7 +3,7 @@
 ## 0. Install prerequisites
 
 1. Your system must be running Windows 10+ and have PowerShell enabled (the latter should already be on by default for standard Windows installations)
-    ::: warning
+    ::: warning About Windows 7 and Linux patching
     While we have patching steps for Windows 7 and Linux in this guide, the preferred platform remains Windows 10+ due to the various dependencies involved
     :::
 2. Install [Git](https://git-scm.com/install/windows) and add it to PATH when it asks you to during setup
@@ -11,15 +11,17 @@
 
 <!--@include: ./includes/supported-game-client.md -->
 
-::: danger Path used in Commands
-**Note:** In this guide, the game's installation path is assumed to be `"C:\Program Files (x86)\Steam\steamapps\common\ShadowrunChronicles"`. If you installed the game elsewhere, replace the path in the commands where this path is used with the path of where you installed the game
+::: danger Check the Path used in Commands
+**Note:** In this guide, the game's installation path is assumed to be `"C:\Program Files (x86)\Steam\steamapps\common\ShadowrunChronicles"`.
+
+If you installed the game elsewhere, replace the path in the commands where this path is used with the one of where you installed the game
 :::
 
 ::: danger Do not install into Restricted Folders
 Do NOT install the game in a restricted folder like `"C:\Program Files"` or `"C:\Windows"` otherwise patching will fail. The default Steam installation directory works without issues. If you are not using a Steam installation, install the game in a normal unprivileged folder such as in your Documents folder.
 :::
 
-4. Install [.NET Framework 4.8](<https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48>) (needed for `MSBuild.exe` used by the C# service):
+4. Install [.NET Framework 4.8 Developer Pack](<https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48>) (needed for `MSBuild.exe` used by the C# service)
 
 ## 1. Clone the server repository
 

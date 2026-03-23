@@ -51,6 +51,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '2026', 
+            link: '/posts/2026/',
             collapsed: true,
             items: [
               { text: '2026-02-22', link: '/posts/2026/2026-02-22' },
