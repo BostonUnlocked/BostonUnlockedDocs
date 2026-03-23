@@ -20,7 +20,6 @@ This non-exhaustive list covers the server's main features:
 As the server is a Work-In-Progress (WIP), it has the following limitations (more may have gone unnoticed):
 
 1. The save progression might have issues. Most of main story progression works but there are some bugs around hub transitions/the matrix that may require game restarts. You may miss some dialog sequences.
-2. While shop functionality works, there's may be some paths where rewards picked up in-game or from quest progress or shops will just be dropped or lost
+2. While shop functionality works, there may be some paths where rewards picked up in-game or from quest progress or shops will just be dropped or lost
 3. When spending nuyen or karma, there may be cases where you are double charged/not charged/etc so balanced progression may be affected
 4. Although we try our best to avoid this (and have successfully achieved it so far), future updates may cause past saves to not work, forcing a restart
-5. All missions may not be playable yet and there may be no way to attain your favorite cosmetic/etc yet
