@@ -34,4 +34,4 @@ To reset all server progress, stop the server and delete the server data folder:
 Remove-Item -Recurse -Force <Server Data Folder>
 ```
 
-Where `<Server Data Folder>` is the appropriate location mentioned in [Server Data Folder](/server-data#server-data-folder)
+Where `<Server Data Folder>` is the appropriate location mentioned in [Server Data Folder](/server_data#server-data-folder)

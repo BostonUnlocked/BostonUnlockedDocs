@@ -9,7 +9,7 @@
 2. Install [Git](https://git-scm.com/install/windows) and add it to PATH when it asks you to during setup
 3. Install **Shadowrun Chronicles: Boston Lockdown**
 
-<!--@include: ./includes/supported-game-client.md -->
+<!--@include: ./includes/supported_game_client.md -->
 
 ::: danger Check the Path used in Commands
 **Note:** In this guide, the game's installation path is assumed to be `"C:\Program Files (x86)\Steam\steamapps\common\ShadowrunChronicles"`.
@@ -71,7 +71,7 @@ Run the following command:
 .\clientsetup\patch_embedded_configs.exe --asset "C:\Program Files (x86)\Steam\steamapps\common\ShadowrunChronicles\Shadowrun_Data\resources.assets" patch --host 127.0.0.1
 ```
 
-<!--@include: ./includes/python-patching.md -->
+<!--@include: ./includes/python_patching.md -->
 
 ### Restore to connect to the normal/online servers again
 
@@ -121,4 +121,6 @@ If port 80 fails to bind, run your PowerShell terminal as Administrator.
 
 Start the game normally, connect to the server as you would normally and play!
 
-<!--@include: ./includes/non-steam-login.md -->
+<!--@include: ./includes/reminder_dlc.md -->
+
+<!--@include: ./includes/non_steam_login.md -->

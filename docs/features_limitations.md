@@ -13,7 +13,7 @@ This non-exhaustive list covers the server's main features:
     3. [Connect to Another Server](/connectmp)
 3. Multiplayer features - Chat, friends, groups, hub live presence
 4. Game features - NPC AI, shops, main and side quests, pets, server announcements
-5. DLC support via coupons - see [Enabling DLC](/enabling-dlc) - **this includes all DLC, even previously restricted backer rewards so everyone can experience all the content officially released**
+5. DLC support via coupons - see [Enabling DLC](/enabling_dlc) - **this includes all DLC, even previously restricted backer rewards so everyone can experience all the content officially released**
 
 ## Limitations
 

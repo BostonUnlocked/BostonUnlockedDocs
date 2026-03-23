@@ -35,15 +35,15 @@ export default defineConfig({
           { text: 'Play Single Player Offline', link: '/installsp' },
           { text: 'Host Multiplayer Online', link: '/installmp' },
           { text: 'Connect to Another Server', link: '/connectmp' },
-          { text: 'Enabling DLC', link: '/enabling-dlc'}
+          { text: 'Enabling DLC', link: '/enabling_dlc'}
         ]
       },
       {
         text: 'Advanced server operations',
         items: [
-          { text: 'Managing Server Data', link: '/server-data' },
-          { text: 'Server Commands', link: '/server-commands' },
-          { text: 'Admin Commands', link: '/admin-commands' },
+          { text: 'Managing Server Data', link: '/server_data' },
+          { text: 'Server Commands', link: '/server_commands' },
+          { text: 'Admin Commands', link: '/admin_commands' },
         ]
       },
       {
