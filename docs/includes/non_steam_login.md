@@ -40,7 +40,9 @@ If you are attempting to login without having a Steam instance running:
 
 1. Ensure you enabled non-Steam Login as per the instructions above.
 2. Enter an email address and password to create a non-Steam account.
-3. You can now login using the credentials you created.
+3. When the launcher asks you for a game key, enter "SRO-GAME-KEY".
+![Launcher Game Key Screen](/img/launcher_game_key.jpg)
+4. You can now login using the credentials you created in the previous steps.
 
 ::: danger No password recovery
 Non-Steam account passwords **cannot** be reset and email addresses are **not** verified. If you forget your password, you will be **permanently locked out of your account**. Please choose and record your login credentials carefully!
