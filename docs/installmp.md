@@ -29,4 +29,4 @@ Replace all instances of `127.0.0.1` with the reachable public IP/hostname of yo
 
 :::
 
-<!--@include: ./includes/updateserver.md -->
+<!--@include: ./includes/reminder_updateserver.md -->
