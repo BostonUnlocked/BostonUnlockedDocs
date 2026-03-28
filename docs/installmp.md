@@ -28,3 +28,5 @@ Replace all instances of `127.0.0.1` with the reachable public IP/hostname of yo
 3. If you are hosting your own multiplayer server, you will need to port forward all 3 of the ports mentioned in step 4 of [Play Single Player Offline](/installsp). **This can cause security risks as one of them is port 80**
 
 :::
+
+<!--@include: ./includes/updateserver.md -->

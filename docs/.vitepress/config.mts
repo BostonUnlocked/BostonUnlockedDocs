@@ -32,11 +32,12 @@ export default defineConfig({
       {
         text: 'Installation',
         items: [
-          { text: 'Quick Start', link: '/quick-start' },
+          { text: 'Quick Start', link: '/quick_start' },
           { text: 'Play Single Player Offline', link: '/installsp' },
           { text: 'Host Multiplayer Online', link: '/installmp' },
           { text: 'Connect to Another Server', link: '/connectmp' },
-          { text: 'Enabling DLC', link: '/enabling_dlc'}
+          { text: 'Enabling DLC', link: '/enabling_dlc'},
+          { text: 'Update Self-hosted Server', link: '/updateserver'}
         ]
       },
       {
