@@ -8,7 +8,7 @@ The [BostonUnlockedServer GitHub repository](https://github.com/BostonUnlocked/B
 
 In short, you can run your own server to play the game and optionally set it up to invite friends to play with you.
 
-[Get Started!](/quick-start)
+[Get Started!](/quick_start)
 
 ### Join our [Discord Server](https://discord.gg/cyuPZrC8Wr)!
 
