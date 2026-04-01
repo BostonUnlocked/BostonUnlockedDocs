@@ -7,6 +7,8 @@ Generated from `server/static-data/metagameplay.json` (`StorylineData` -> `Main 
 - Side missions: **20**
 - Repeated appearances in later chapters: **8**
 
+<!--@include: ../includes/spoiler_warning.md -->
+
 ::: info
 This list is based off the [corresponding document](https://github.com/BostonUnlocked/BostonUnlockedServer/blob/main/docs/mission_unlock_order.md) on the server repository.
 :::
