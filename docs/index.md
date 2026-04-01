@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: Complete Documentation
       link: /introduction
+    - theme: alt
+      text: Game Reference
+      link: /gameref
 
 ---
 

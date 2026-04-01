@@ -14,8 +14,9 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      //{ text: 'FAQ', link: '/faq' },
-      { text: 'Complete Documentation', link: '/introduction' }
+      { text: 'Features and Limitations', link: '/features_limitations' },
+      { text: 'Complete Documentation', link: '/introduction' },
+      { text: 'Game Reference', link: '/gameref' }
     ],
 
     sidebar: [
@@ -49,6 +50,19 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Game Reference',
+        link: '/gameref/',
+        collapsed: true,
+        items: [
+          { text: 'Mission Unlock Order', link: '/gameref/mission_unlock_order' },
+          { text: 'Armor Reference', link: '/gameref/items_armor_reference' },
+          { text: 'Cyberware Reference', link: '/gameref/items_cyberware_reference' },
+          { text: 'Tactical Items Reference', link: '/gameref/items_tactical_reference' },
+          { text: 'Weapons Reference', link: '/gameref/items_weapons_reference' },
+          { text: 'Interesting Game Behaviour', link: '/gameref/interesting_finds' },
+        ]
+      },
+      {
         text: 'Announcements',
         collapsed: true,
         items: [
@@ -70,7 +84,8 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/cyuPZrC8Wr' },
-      { icon: 'github', link: 'https://github.com/BostonUnlocked/BostonUnlockedServer' }
+      { icon: 'github', link: 'https://github.com/BostonUnlocked/BostonUnlockedServer' },
+      { icon: 'steam', link: 'https://steamcommunity.com/app/267750/discussions/0/796713273232940271/'}
     ]
   }
 })
