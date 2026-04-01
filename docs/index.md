@@ -26,6 +26,6 @@ hero:
 
 # Announcements
 
-<!--@include: ./posts/2026/2026-04-01 -->
+<!--@include: ./posts/2026/2026-04-01.md -->
 
 [>Read Older Announcements](/posts/2026/2026-03-22)
