@@ -81,10 +81,7 @@ If you patched to `127.0.0.1` and want to revert back to the original server URL
 .\clientsetup\patch_embedded_configs.exe --asset "C:\Program Files (x86)\Steam\steamapps\common\ShadowrunChronicles\Shadowrun_Data\resources.assets" restore
 ```
 
-::: warning
-
-* `--asset` is a global flag, so it must come **before** `patch`/`restore`.
-:::
+<!--@include: ./includes/patching_flag_warning.md -->
 
 ::: info
 To access the patching tool help, run:
