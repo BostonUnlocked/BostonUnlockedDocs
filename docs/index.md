@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: Quick Start
       link: /quick_start
+    - theme: brand
+      text: Features and Limitations
+      link: /features_limitations
     - theme: alt
       text: Complete Documentation
       link: /introduction

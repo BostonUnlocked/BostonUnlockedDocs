@@ -44,8 +44,8 @@ export default defineConfig({
         text: 'Advanced server operations',
         items: [
           { text: 'Managing Server Data', link: '/server_data' },
-          { text: 'Server Commands', link: '/server_commands' },
-          { text: 'Admin Commands', link: '/admin_commands' },
+          { text: 'Global Chat Commands', link: '/commands_player' },
+          { text: 'Admin Global Chat Commands', link: '/commands_admin' },
         ]
       },
       {

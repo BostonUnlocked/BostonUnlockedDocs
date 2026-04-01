@@ -11,9 +11,9 @@ This list covers the server's main features:
     1. [Play Single Player Offline](/installsp)
     2. [Host Multiplayer Online](/installmp) **with important caveats detailed on the linked page**
     3. [Connect to Another Server](/connectmp)
-3. All multiplayer features - Chat, friends, groups, hub live presence
-4. All game features - NPC AI, shops, main and side quests, pets, server announcements
-5. DLC support - see [Enabling DLC](/enabling_dlc) - **this includes all DLC, even previously restricted backer rewards so everyone can experience all of the content officially released**
+3. All game features - NPC AI, shops, main and side quests, pets, server announcements, multiplayer features (chat, friends, groups, hub live presence)
+4. DLC support - see [Enabling DLC](/enabling_dlc) - **this includes all DLC, even previously restricted backer rewards so everyone can experience all of the content officially released**
+5. [Global Chat Commands](/commands_player) and [Admin Global Chat Commands](/commands_admin) which introduce convenient server management and bug reporting features.
 
 ## Limitations
 
@@ -30,3 +30,6 @@ BostonUnlocked aims to match the original game's behaviour as closely as possibl
 
 1. [DLC granted items do not have blue "new item" star](https://github.com/BostonUnlocked/BostonUnlockedServer/issues/15#issuecomment-4157318184) - In the original Game, a new character had default starting items with no blue "new item" star icons next to them but items granted by Deluxe Edition (or other sources) did receive a blue "new item" star icon. In the BostonUnlocked, no blue star icon is visible for any items granted by coupon codes. This behaviour has not been implemented as with the current architecture, fixing this would require significant rewrites just for this feature. It requires not granting the items until the first login for the character (a deferred granting rather than immediate availability at coupon redemption).
 ![DLC Blue "New Item" Star](/img/dlc_blue_item_star.png)
+2. [Global Chat Commands](/commands_player) and [Admin Global Chat Commands](/commands_admin) are new features which enable convenient server management and bug reporting.
+
+**Note:** Current open bugs (if any) can be found on [GitHub Issues](https://github.com/BostonUnlocked/BostonUnlockedServer/issues).

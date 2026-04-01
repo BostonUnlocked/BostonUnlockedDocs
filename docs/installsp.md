@@ -118,7 +118,7 @@ If port 80 fails to bind, run your PowerShell terminal as Administrator.
 
 Start the game normally, connect to the server as you would normally and play!
 
-<!--@include: ./includes/reminder_dlc.md -->
+<!--@include: ./includes/reminder_dlc_chat.md -->
 
 <!--@include: ./includes/reminder_updateserver.md -->
 
