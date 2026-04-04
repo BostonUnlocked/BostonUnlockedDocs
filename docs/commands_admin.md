@@ -1,6 +1,6 @@
 # Admin Global Chat Commands
 
-These slash commands are **only available to administrators in Global chat**.
+These slash commands are **only available to [administrators](/enable_admin) in Global chat**.
 
 General commands can be found [here](/commands_player).
 

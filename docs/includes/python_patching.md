@@ -14,9 +14,7 @@ python.exe ./tools/path_embedded_configs.py --asset "C:\Program Files (x86)\Stea
 * The tool creates a backup next to the asset (by default `resources.assets.bak`).
 :::
 
-::: warning
-* `--asset` is a global flag, so it must come **before** `patch`/`restore`.
-:::
+<!--@include: ./patching_flag_warning.md -->
 
 4. Alternatively, if you run
 

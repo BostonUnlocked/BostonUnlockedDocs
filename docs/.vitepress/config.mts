@@ -25,7 +25,7 @@ export default defineConfig({
         items: [
           { text: 'Introduction', link: '/introduction' },
           { text: 'Features and Limitations', link: '/features_limitations' },
-          { text: 'How You can Help', link: 'how_you_can_help' },
+          { text: 'How You can Help', link: '/how_you_can_help' },
           { text: 'Report Bugs', link: '/reportbugs' },
           { text: 'Project History', link: '/project_history' }
         ]
@@ -34,19 +34,18 @@ export default defineConfig({
         text: 'Installation',
         items: [
           { text: 'Quick Start', link: '/quick_start' },
-          { text: 'Play Single Player Offline', link: '/installsp' },
-          { text: 'Host Multiplayer Online', link: '/installmp' },
+          
           { text: 'Connect to Another Server', link: '/connectmp' },
           { text: 'Enabling DLC', link: '/enabling_dlc'},
-          { text: 'Update Self-hosted Server', link: '/updateserver'}
-        ]
-      },
-      {
-        text: 'Advanced server operations',
-        items: [
-          { text: 'Managing Server Data', link: '/server_data' },
-          { text: 'Global Chat Commands', link: '/commands_player' },
-          { text: 'Admin Global Chat Commands', link: '/commands_admin' },
+          {
+            text: 'Advanced Installation',
+            link: '/installadv',
+            items: [
+              { text: 'Play Single Player Offline', link: '/installsp' },
+              { text: 'Host Multiplayer Online', link: '/installmp' },
+              { text: 'Update Self-hosted Server', link: '/updateserver'}
+            ]
+          }
         ]
       },
       {
@@ -60,6 +59,19 @@ export default defineConfig({
           { text: 'Tactical Items Reference', link: '/gameref/items_tactical_reference' },
           { text: 'Weapons Reference', link: '/gameref/items_weapons_reference' },
           { text: 'Interesting Game Behaviour', link: '/gameref/interesting_finds' },
+        ]
+      },
+      {
+        text: 'Server Operations',
+        items: [
+          { text: 'Managing Server Data', link: '/server_data' },
+          { text: 'Global Chat Commands', link: '/commands_player' },
+          { text: 'Admin Operations', 
+            items: [
+              { text: 'Enabling Admin Access', link: '/enable_admin' },
+              { text: 'Admin Global Chat Commands', link: '/commands_admin' }
+            ]
+          },
         ]
       },
       {

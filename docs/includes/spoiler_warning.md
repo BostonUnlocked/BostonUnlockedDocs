@@ -1,4 +1,3 @@
 ::: danger Beware Spoilers!
-
-This page may contain spoilers!
+This page contains spoilers!
 :::
