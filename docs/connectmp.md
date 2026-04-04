@@ -25,4 +25,6 @@ where `<GameRoot>` refers to where you installed the game
 
 <!--@include: ./includes/reminder_dlc_chat.md -->
 
+<!--@include: ./includes/server_status.md -->
+
 <!--@include: ./includes/non_steam_login.md -->

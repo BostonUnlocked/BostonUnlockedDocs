@@ -120,6 +120,8 @@ Start the game normally, connect to the server as you would normally and play!
 
 <!--@include: ./includes/reminder_dlc_chat.md -->
 
+<!--@include: ./includes/server_status.md -->
+
 <!--@include: ./includes/reminder_updateserver.md -->
 
 <!--@include: ./includes/non_steam_login.md -->

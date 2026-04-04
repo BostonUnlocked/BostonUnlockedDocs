@@ -4,21 +4,35 @@ The BostonUnlocked Project is the culmination of many years of effort. This page
 
 ## The Original Game
 
-2015-04-28 - Shadowrun Chronicles: Boston Lockdown game launched *[(Source)](https://store.steampowered.com/app/267750/Shadowrun_Chronicles__Boston_Lockdown/)*
+2012-07-18 - Cliffhanger Productions, developers of Jagged Alliance Online, launch a Kickstarter to develop what is known at the time as "Shadowrun Online" *[(Source 1)](https://www.kickstarter.com/projects/1964352341/shadowrun-online/description)* *[(Source 2)](https://www.eurogamer.net/shadowrun-online-turns-to-kickstarter)*
 
-2018-11-30 - Shadowrun Chronicles: Boston Lockdown shut down. The developers, Cliffhanger Productions, initiate work to obtain permission from Microsoft to host the game at the [Museum of Art and Digital Entertainment (MADE)](https://www.themade.org/) *[(Source)](https://steamcommunity.com/app/267750/discussions/0/1742227264195100985/)*
+2012-08-14 - "Shadowrun Online" is funded at 110% of its $500,000 goal *[(Source)](https://www.kicktraq.com/projects/1964352341/shadowrun-online/)*
+
+2015-04-28 - Shadowrun Chronicles: Boston Lockdown (the game's final name) is officially released *[(Source)](https://store.steampowered.com/app/267750/Shadowrun_Chronicles__Boston_Lockdown/)*
+
+2015-10-22 - The Infected! DLC is released *[Source](https://store.steampowered.com/app/405730/Shadowrun_Chronicles_Infected/)*
+
+2015-10-22 - The Missions DLC is released *[Source](https://store.steampowered.com/app/435190/Shadowrun_Chronicles_Missions/)*
+
+2018-11-30 - Shadowrun Chronicles: Boston Lockdown is shut down and its servers are taken offline, completely disabling access to the game as a result. Cliffhanger Productions initiate work to obtain permission from Microsoft to host the game with its original data at the [Museum of Art and Digital Entertainment (MADE)](https://www.themade.org/) *[(Source)](https://steamcommunity.com/app/267750/discussions/0/1742227264195100985/)*
 
 ## The MADE
 
-c. 2020-04-30 - The MADE receives permission from Microsoft to officially host a non-profit version of the game. ZiggyTheHamster begins work on the project to revive the game *[(Source)](https://twitter.com/TheMADE/status/1255908677371916288)*
+c. 2019-01-15 - Microsoft unofficially indicates it is open to the idea of hosting the game at the MADE *[(Source)](https://steamcommunity.com/app/267750/discussions/0/1742227264195100985/?ctp=2#c3441214221472686664)*
 
-c. 2020-03 - The MADE closes its doors due to the COVID pandemic and shelter in place government mandates
+c. 2020-01-15 - Cliffhanger Productions and the MADE work on modernising the server backend *[(Source)](https://steamcommunity.com/app/267750/discussions/0/1742227264195100985/?ctp=23#c1743390581285892479)*
+
+c. 2020-03 - The MADE closes its doors due to the COVID pandemic and shelter in place government mandates *[(Source)](https://massivelyop.com/2020/08/27/game-preservation-champion-the-museum-of-art-and-digital-entertainment-has-closed-its-doors/)*
+
+c. 2020-04-30 - The MADE continues work to officially host a non-profit version of the game. ZiggyTheHamster works on the project to revive the game *[(Source)](https://twitter.com/TheMADE/status/1255908677371916288)*
+
+c. 2020-05-04 - While awaiting Microsoft's full sign-off, work continues on the server backend reimplementation *[(Source)](https://steamcommunity.com/app/267750/discussions/0/1742227264195100985/?ctp=25#c2269195350126652800)*
 
 2020-08-31 - The MADE decides to go into storage for 2 years due the COVID pandemic. The game revival project goes on hiatus *[(Source)](https://steamcommunity.com/app/267750/discussions/0/1742227264195100985/?ctp=28#c2802882052701921434)*
 
 2022-06-10 - The MADE reopens its doors *[(Source)](https://twitter.com/TheMADE/status/1524416431328153600)*
 
-2020-2025 - Various issues prevent the game from being revived and existing assets being released to the public. This includes Personally Identifiable Information (PII) in the logs and databases, the code being based off proprietary and outdated dependencies and there being no source code provided. The server binaries therefore had to be decompiled, reverse engineered and reimplemented. *[(Source 1)](https://steamcommunity.com/app/267750/discussions/0/3880471364306589678/#c7410182519539937862) [(Source 2)](https://x.com/ZiggyTheHamster/status/1398512490313510912)*
+**2020-2025 General Notes** - Various issues prevent the game from being revived and existing assets being released to the public. This includes Personally Identifiable Information (PII) in the logs and databases, the code being based off proprietary and outdated dependencies and there being no source code provided. The server binaries therefore had to be decompiled, reverse engineered and reimplemented. *[(Source 1)](https://steamcommunity.com/app/267750/discussions/0/3880471364306589678/#c7410182519539937862) [(Source 2)](https://x.com/ZiggyTheHamster/status/1398512490313510912)*
 
 2024-03-16 - OSIAS contacts the MADE to try and get the project going again. Coordinating with gordonfreeman01 (aka dyuom), the history of the project is confirmed to locate the MADE's documentation for the project. ScarlxtPink, who was working on their own private game revival, ends up privately working with the MADE. *[(Source)](https://steamcommunity.com/app/267750/discussions/0/7410182519537981967/)*
 

@@ -11,3 +11,5 @@ Here's how:
 ::: info
 We do not mention the server IP here to protect it from automated scanners on GitHub which might misuse the information
 :::
+
+<!--@include: ./includes/server_status.md -->
