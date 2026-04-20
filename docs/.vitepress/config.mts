@@ -58,6 +58,7 @@ export default defineConfig({
           { text: 'Cyberware Reference', link: '/gameref/items_cyberware_reference' },
           { text: 'Tactical Items Reference', link: '/gameref/items_tactical_reference' },
           { text: 'Weapons Reference', link: '/gameref/items_weapons_reference' },
+          { text: 'Loot Drop Tables Reference', link: '/gameref/loot_drop_tables_reference' },
           { text: 'Interesting Game Behaviour', link: '/gameref/interesting_finds' },
         ]
       },
@@ -89,7 +90,8 @@ export default defineConfig({
               { text: '2026-03-17', link: '/posts/2026/2026-03-17' },
               { text: '2026-03-22', link: '/posts/2026/2026-03-22' },
               { text: '2026-04-01', link: '/posts/2026/2026-04-01' },
-              { text: '2026-04-04', link: '/posts/2026/2026-04-04' }
+              { text: '2026-04-04', link: '/posts/2026/2026-04-04' },
+              { text: '2026-04-20', link: '/posts/2026/2026-04-20' }
             ]
           }
         ]

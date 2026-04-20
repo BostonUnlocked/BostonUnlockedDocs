@@ -17,8 +17,9 @@ This list covers the server's main features:
 
 * [Global Chat Commands](/commands_player) and [Admin Global Chat Commands](/commands_admin) which introduce convenient server management and bug reporting features.
 * All players have 6 character slots without needing to buy any DLC.
-* A server status page can be accessed by opening the server's IP in a browser (HTTP-only for now):
-![Server Status Page](/img/server-status-page.jpg)
+* You can respec your character via the `/resetskills` [Global Chat Command](/commands_player). This undoes skill selections and refunds karma without losing story progress, allowing you to modify your character build. On the community server, every character gets 1 free respec but the next respec is only available after 28 days  (self-hosting grants admins unlimited respecs).
+* A server status page can be accessed by opening the server's IP in a browser (HTTP-only for now). It includes a mission status indicator and party grouping to find players:
+![Server Status Page](/img/server_status_page.png)
 
 ## Limitations
 
@@ -38,6 +39,6 @@ BostonUnlocked aims to match the original game's behaviour as closely as possibl
 2. [Global Chat Commands](/commands_player) and [Admin Global Chat Commands](/commands_admin) are new features which enable convenient server management and bug reporting.
 3. [All players have 6 character slots](https://github.com/BostonUnlocked/BostonUnlockedServer/issues/7) - Previously, the base game had a limited number of slots that could be increased with DLC purchases. All players now have a 6 slots available without needing to activate any DLC (slots cannot be purchased separately as BostonUnlocked is not a commercial product).
 4. A server status page can be accessed by opening the server's IP in a browser (HTTP-only for now):
-![Server Status Page](/img/server-status-page.jpg)
+![Server Status Page](/img/server_status_page.png)
 
 **Note:** Current open bugs (if any) can be found on [GitHub Issues](https://github.com/BostonUnlocked/BostonUnlockedServer/issues).

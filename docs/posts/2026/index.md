@@ -16,3 +16,4 @@
 
 * [2026-04-01 Game Reference Section Added, Chat Commands Listed, Various Improvements](/posts/2026/2026-04-01)
 * [2026-04-04 Infrastructure Improvements, Custom Discord Emoji and Site Improvements](/posts/2026/2026-04-04)
+* [2026-04-20 Loot Drop Tables Reference, Respec, Server Status Page Improvements](/posts/2026/2026-04-20)
