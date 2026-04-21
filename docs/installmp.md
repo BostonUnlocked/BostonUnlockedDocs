@@ -14,6 +14,7 @@ We do not recommend hosting a multiplayer server from your personal computer due
 `\server\src\Shadowrun.LocalService.Host\bin\Release`
 
 To the machine you want to host it on.
+
 3. Update these files:
 
 `Release\Resources\config\config.xml`
