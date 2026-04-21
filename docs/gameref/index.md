@@ -12,8 +12,6 @@ This section contains detailed information about the game's various mechanics.
 
 [Weapons Reference](/gameref/items_weapons_reference)
 
-[Interesting Game Behaviour](/gameref/interesting_finds)
+[Loot Drop Tables Reference](/gameref/loot_drop_tables_reference)
 
-::: info Drop Rates are not Covered
-Drop rates are profile-dependent as rates change depending on where you are in the story in addition to what your entire current inventory is. Publishing a fixed drop rate number is therefore not possible.
-:::
+[Interesting Game Behaviour](/gameref/interesting_finds)
