@@ -91,7 +91,7 @@ export default defineConfig({
               { text: '2026-03-22', link: '/posts/2026/2026-03-22' },
               { text: '2026-04-01', link: '/posts/2026/2026-04-01' },
               { text: '2026-04-04', link: '/posts/2026/2026-04-04' },
-              { text: '2026-04-20', link: '/posts/2026/2026-04-20' }
+              { text: '2026-04-21', link: '/posts/2026/2026-04-21' }
             ]
           }
         ]
