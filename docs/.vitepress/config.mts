@@ -12,6 +12,11 @@ export default defineConfig({
       provider: 'local'
     },
 
+    footer: {
+      message: 'Released under the <a href="https://github.com/BostonUnlocked/BostonUnlockedServer/blob/main/LICENSE">GPL v3.0 License</a>.',
+      copyright: 'Shadowrun is a trademark of Microsoft Corporation. This project is not affiliated with or endorsed by Microsoft.'
+    },
+    
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Features and Limitations', link: '/features_limitations' },

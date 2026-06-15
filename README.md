@@ -24,3 +24,5 @@ npm run docs:dev
 4. The site will now be accessible from http://127.0.0.1:5173/ (or any other port shown on the terminal)
 
 **Note:** This is the repository for the BostonUnlocked website code and content. For the server source code, go to [BostonUnlockedServer](https://github.com/BostonUnlocked/BostonUnlockedServer)
+
+*Shadowrun is a trademark of Microsoft Corporation. This project is not affiliated with or endorsed by Microsoft.*
