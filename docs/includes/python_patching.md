@@ -9,8 +9,8 @@ To patch the game on Linux and Windows 7, the underlying python script would nee
 python.exe ./tools/path_embedded_configs.py --asset "C:\Program Files (x86)\Steam\steamapps\common\ShadowrunChronicles\Shadowrun_Data\resources.assets" patch --host 127.0.0.1
 ```
 
-::: info Check the IP in the command
-* 127.0.0.1 is the IP for localhost. Use this to play offline on your local system specifically. If you are connecting to an online multiplayer server, this IP should be the public IP or hostname of the server
+::: info Check the IP/URL in the command
+* 127.0.0.1 is the IP for localhost. Use this to play offline on your local system specifically. If you are connecting to an online multiplayer server, this IP/URL should be the public IP or hostname of the server
 * The tool creates a backup next to the asset (by default `resources.assets.bak`).
 :::
 
@@ -22,5 +22,5 @@ python.exe ./tools/path_embedded_configs.py --asset "C:\Program Files (x86)\Stea
  python.exe ./tools/path_embedded_configs.py
  ```
 
- It should ask you the path for resources.assets and the IP separately
+ It should ask you the path for resources.assets and the IP/URL separately
 :::::

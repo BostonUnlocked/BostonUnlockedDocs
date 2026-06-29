@@ -20,7 +20,7 @@ where `<GameRoot>` refers to where you installed the game
 
 <!--@include: ./includes/python_patching.md -->
 
-4. After the previous step, in the command line window it will ask for a host, simply enter the IP of the server you want to connect to and then press the `ENTER` key to proceed.
+4. After the previous step, in the command line window it will ask for a host, simply enter the IP/URL of the server you want to connect to and then press the `ENTER` key to proceed.
 5. Once done, simply launch the game normally and have fun!
 
 <!--@include: ./includes/reminder_dlc_chat.md -->

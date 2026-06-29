@@ -17,3 +17,7 @@
 * [2026-04-01 Game Reference Section Added, Chat Commands Listed, Various Improvements](/posts/2026/2026-04-01)
 * [2026-04-04 Infrastructure Improvements, Custom Discord Emoji and Site Improvements](/posts/2026/2026-04-04)
 * [2026-04-21 Loot Drop Tables Reference, Respec, Server Status Page Improvements](/posts/2026/2026-04-21)
+
+## June
+
+* [2026-06-29 More Chat Commands, Community Server Moved to the MADE, Misc. Updates](/posts/2026/2026-06-29)

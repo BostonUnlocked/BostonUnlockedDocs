@@ -48,8 +48,12 @@ c. 2020-05-04 - While awaiting Microsoft's full sign-off, work continues on the 
 
 2026-02-22 - BostonUnlocked has its first release by ShadowAid. *[(Source)](/posts/2026/2026-02-22)*
 
+2026-02-27 - The first instance of a publicly hosted Community Server is setup *[(Source)](/posts/2026/2026-02-27)*
+
 **Note:** From this point on, the announcement history section of this website details the rapid progress. Game systems come online rapidly but face issues such as AI behaviour, hub synchronisation and mission progression being difficult to restore without access to the original server code.
 
 2026-03-07 - ZiggyTheHamster joins the BostonUnlocked Discord server and grants the project permission to use the decompiled original server binaries at the MADE. This leads to huge breakthroughs across all game systems. *[(Source)](https://discord.com/channels/1233507112081166376/1233507349361070151/1479708640184111104)*
+
+2026-06-07 - The Community Server was migrated to hosting on the MADE infrastructure (*Note: The official announcement for this move was done afterwards but the URL was already updated in the relevant community channels*) *[(Source)](/posts/2026/2026-06-29)*
 
 Present - The work continues, see the Announcements section of this website for the latest developments.

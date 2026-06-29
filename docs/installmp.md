@@ -24,7 +24,7 @@ Replace all instances of `127.0.0.1` with the reachable public IP/hostname of yo
 
 ::: info Notes
 
-1. If you're hosting on a LAN for local play, this can be a local IP 192.168.x.x
+1. If you're hosting on a LAN for local play, this can be a local IP 192.168.x.x or a hostname
 2. If you want to play with other people over the Internet, it needs to be the public IP or a hostname that resolves to the public IP of your server.
 3. If you are hosting your own multiplayer server, you will need to port forward all 3 of the ports mentioned in step 4 of [Play Single Player Offline](/installsp). **This can cause security risks as one of them is port 80**
 
