@@ -6,7 +6,7 @@ To patch the game on Linux and Windows 7, the underlying python script would nee
 3. From terminal/CMD, run
 
 ```sh
-python.exe ./tools/path_embedded_configs.py --asset "C:\Program Files (x86)\Steam\steamapps\common\ShadowrunChronicles\Shadowrun_Data\resources.assets" patch --host 127.0.0.1
+python.exe ./tools/patch_embedded_configs.py --asset "C:\Program Files (x86)\Steam\steamapps\common\ShadowrunChronicles\Shadowrun_Data\resources.assets" patch --host 127.0.0.1
 ```
 
 ::: info Check the IP/URL in the command
@@ -19,7 +19,7 @@ python.exe ./tools/path_embedded_configs.py --asset "C:\Program Files (x86)\Stea
 4. Alternatively, if you run
 
 ```sh
- python.exe ./tools/path_embedded_configs.py
+ python.exe ./tools/patch_embedded_configs.py
  ```
 
  It should ask you the path for resources.assets and the IP/URL separately
