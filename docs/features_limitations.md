@@ -18,15 +18,15 @@ This list covers the server's main features:
 * [Global Chat Commands](/commands_player) and [Admin Global Chat Commands](/commands_admin) are available. These introduce convenient player experience, server management and bug reporting features.
 * All players have **6 character slots without needing to buy any DLC**.
 * You can **respec your character** via the `/resetskills` [Global Chat Command](/commands_player#resetskills). This undoes skill selections and refunds karma without losing story progress, allowing you to modify your character build. On the community server, every character gets 1 free respec but the next respec is only available after 28 days  (self-hosting grants admins unlimited respecs).
-* A **server status page** can be accessed by opening the server's IP/URL in a browser (HTTP-only for now so make sure you do not start the URL with https). It includes mission status and party grouping indicators to help find players more easily (players surrounded by a square under a mission are in a party, the party leader is marked with a star):
+* A **server status page** can be accessed by opening the server's IP/URL in a browser (HTTP and HTTPS are supported). It includes mission status and party grouping indicators to help find players more easily (players surrounded by a square under a mission are in a party, the party leader is marked with a star):
 ![Server Status Page](/img/server_status_page.jpg)
 
 ## Limitations
 
-As the server is a Work-In-Progress (WIP), it has the following limitations (more may have gone unnoticed):
+As the server was reverse engineered from the game after it was shut down, it has the following limitations:
 
-1. There may be different bugs when compared to the original game, report them using the information at the top of this page so we can fix them.
-2. Although we try our best to avoid this (and have successfully achieved it so far), future updates may cause past saves to not work, forcing a career restart. Our standard approach is to ensure saves from previous versions migrate to future versions however.
+1. There may be bugs when compared to the original game, report them using the information at the top of this page so we can fix them.
+2. There are some minor known differences compared to the original game (listed below).
 
 ## Known Differences from Original Game
 
@@ -36,7 +36,7 @@ BostonUnlocked aims to match the original game's behaviour as closely as possibl
 ![DLC Blue "New Item" Star](/img/dlc_blue_item_star.png)
 2. All convenience features are new to BostonUnlocked (these are already detailed under [Features](#features), only additional context is mentioned below):
 
-* [Global Chat Commands](/commands_player) and [Admin Global Chat Commands](/commands_admin).
+* [Global Chat Commands](/commands_player) and [Admin Global Chat Commands](/commands_admin) have been added as a convenience feature.
 * [All players have 6 character slots](https://github.com/BostonUnlocked/BostonUnlockedServer/issues/7) - Previously, the base game had a limited number of slots that could be increased with DLC purchases. All players now have a 6 slots available without needing to activate any DLC (slots cannot be purchased separately as BostonUnlocked is not a commercial product).
 * A server status page can be accessed by opening the server's IP/URL in a browser.
 

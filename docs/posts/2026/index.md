@@ -24,4 +24,4 @@
 
 ## November
 
-* [2026-11-26 TBD](/posts/2026/2026-11-26)
+* [2026-11-26 HALLOWEEN and BONUSCOSMETICS Coupon Codes, Server and Site updates](/posts/2026/2026-11-26)
