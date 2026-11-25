@@ -1,6 +1,6 @@
 # Features and Limitations
 
-<!--@include: ./includes/server_is_wip.md -->
+<!--@include: ./includes/for_support.md -->
 
 ## Features
 

@@ -30,7 +30,7 @@ export default defineConfig({
         items: [
           { text: 'Introduction', link: '/introduction' },
           { text: 'Features and Limitations', link: '/features_limitations' },
-          { text: 'How You can Help', link: '/how_you_can_help' },
+          { text: 'Asking For Help', link: '/asking_for_help' },
           { text: 'Report Bugs', link: '/reportbugs' },
           { text: 'Project History', link: '/project_history' }
         ]
