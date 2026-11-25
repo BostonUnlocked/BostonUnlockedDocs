@@ -21,3 +21,7 @@
 ## June
 
 * [2026-06-29 More Chat Commands, Community Server Moved to the MADE, Misc. Updates](/posts/2026/2026-06-29)
+
+## November
+
+* [2026-11-26 HALLOWEEN and BONUSCOSMETICS Coupon Codes, Server and Site updates](/posts/2026/2026-11-26)

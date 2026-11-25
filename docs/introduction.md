@@ -12,4 +12,4 @@ In short, you can run your own server to play the game and optionally set it up 
 
 ### Join our [Discord Server](https://discord.gg/cyuPZrC8Wr)!
 
-<!--@include: ./includes/server_is_wip.md -->
+<!--@include: ./includes/for_support.md -->

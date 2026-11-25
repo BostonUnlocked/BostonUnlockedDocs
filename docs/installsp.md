@@ -6,7 +6,7 @@
     ::: warning About Windows 7 and Linux patching
     While we have patching steps for Windows 7 and Linux in this guide, the preferred platform remains Windows 10+ due to the various dependencies involved
     :::
-2. Install [Git](https://git-scm.com/install/windows) and add it to PATH when it asks you to during setup
+2. Install [Git](https://git-scm.com/install/windows) and [Python 3](https://www.python.org/downloads/). Add them to PATH when asked to during setup.
 3. Install **Shadowrun Chronicles: Boston Lockdown**
 
 <!--@include: ./includes/supported_game_client.md -->

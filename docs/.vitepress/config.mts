@@ -30,7 +30,7 @@ export default defineConfig({
         items: [
           { text: 'Introduction', link: '/introduction' },
           { text: 'Features and Limitations', link: '/features_limitations' },
-          { text: 'How You can Help', link: '/how_you_can_help' },
+          { text: 'Asking For Help', link: '/asking_for_help' },
           { text: 'Report Bugs', link: '/reportbugs' },
           { text: 'Project History', link: '/project_history' }
         ]
@@ -97,7 +97,8 @@ export default defineConfig({
               { text: '2026-04-01', link: '/posts/2026/2026-04-01' },
               { text: '2026-04-04', link: '/posts/2026/2026-04-04' },
               { text: '2026-04-21', link: '/posts/2026/2026-04-21' },
-              { text: '2026-04-21', link: '/posts/2026/2026-06-29' }
+              { text: '2026-06-29', link: '/posts/2026/2026-06-29' },
+              { text: '2026-11-26', link: '/posts/2026/2026-11-26' }
             ]
           }
         ]
