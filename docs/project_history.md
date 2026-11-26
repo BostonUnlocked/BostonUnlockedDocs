@@ -10,9 +10,9 @@ The BostonUnlocked Project is the culmination of many years of effort. This page
 
 2015-04-28 - Shadowrun Chronicles: Boston Lockdown (the game's final name) is officially released *[(Source)](https://store.steampowered.com/app/267750/Shadowrun_Chronicles__Boston_Lockdown/)*
 
-2015-10-22 - The Infected! DLC is released *[Source](https://store.steampowered.com/app/405730/Shadowrun_Chronicles_Infected/)*
+2015-10-22 - The Infected! DLC is released *[(Source)](https://store.steampowered.com/app/405730/Shadowrun_Chronicles_Infected/)*
 
-2016-02-24 - The Missions DLC is released *[Source](https://store.steampowered.com/app/435190/Shadowrun_Chronicles_Missions/)*
+2016-02-24 - The Missions DLC is released *[(Source)](https://store.steampowered.com/app/435190/Shadowrun_Chronicles_Missions/)*
 
 2018-11-30 - Shadowrun Chronicles: Boston Lockdown is shut down and its servers are taken offline, completely disabling access to the game as a result. Cliffhanger Productions initiate work to obtain permission from Microsoft to host the game with its original data at the [Museum of Art and Digital Entertainment (MADE)](https://www.themade.org/) *[(Source)](https://steamcommunity.com/app/267750/discussions/0/1742227264195100985/)*
 
